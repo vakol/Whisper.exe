@@ -1,6 +1,6 @@
 # Whisper.exe
 <br>
-Aplikace rozpoznává hlasovı MP3 soubor a vrací rozpoznanı text.
+Aplikace rozpoznÃ¡vÃ¡ hlasovÃ½ MP3 soubor a vracÃ­ rozpoznanÃ½ text.
 <br>
 <br>
-![Pøevod hlasu na text](assets/whisper.gif)
+![PÅ™evod hlasu na text](assets/whisper.gif)
