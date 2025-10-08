@@ -1,6 +1,8 @@
-# Whisper.exe
+# Windows CLI aplikace "Whisper.exe"
+Tato Windows command line aplikace převede hlasový soubor MP3 na textovou zprávu.
+- Cesta k MP3 souboru se zadává jako vstupní parametr aplikace: <code>whisper.exe C:\test\telefon.mp3</code>
+- Výstup se provede na STDOUT.
+- Výstup z aplikace je opatřen tagy pro jeho případné další zpracování.
+- Pro použitý ropoznávací model <code>turbo</code> je nutno mít k dispozici přibližně 16GB RAM.
 <br>
-Aplikace rozpoznává hlasový MP3 soubor a vrací rozpoznaný text.
-<br>
-<br>
-![Převod hlasu na text](assets/whisper.gif)
+<img src="./assets/whisper.gif" alt="CLI aplikace whisper.exe"/>
